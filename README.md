@@ -40,3 +40,7 @@ Structured reference summary of statutory timelines, official filing fee formula
 ---
 
 *Disclaimer: Informational reference maintained by [EvidencePack UAE](https://evidencepack.visisellai.com). Independent document-preparation resource—not legal advice and not affiliated with any UAE government authority.*
+
+Interactive Public Checklist
+* [Dubai Deposit Refund & Dispute Checklist (2026) — Notion](https://hill-billboard-c6b.notion.site/Dubai-Deposit-Refund-Dispute-Checklist-2026-4210f7872697801eb4afcaa181a6dd48)
+
