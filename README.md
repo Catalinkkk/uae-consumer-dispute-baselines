@@ -44,3 +44,4 @@ Structured reference summary of statutory timelines, official filing fee formula
 Interactive Public Checklist
 * [Dubai Deposit Refund & Dispute Checklist (2026) — Notion](https://hill-billboard-c6b.notion.site/Dubai-Deposit-Refund-Dispute-Checklist-2026-4210f7872697801eb4afcaa181a6dd48)
 * [Dubai Security Deposit Dispute & Refund Checklist (2026) — Gumroad](https://catalinkkk.gumroad.com/l/dbwlae)
+* [Security Deposit Dispute in Dubai (2026): Tenancy & Car Rental Refund Checklist — Medium](https://medium.com/@evidencepackuae/security-deposit-dispute-in-dubai-2026-tenancy-car-rental-refund-checklist-521ba47912cf)
